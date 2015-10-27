@@ -7,7 +7,5 @@ class NamedCow extends Cow
 		myName = name;
 		mySound = sound;
 	}
-	public String getType(){return myType;}
 	public String getName(){return myName;}
-	public String getSound(){return mySound;}
 }
